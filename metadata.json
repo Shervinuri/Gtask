@@ -1,0 +1,5 @@
+{
+  "name": "Grok v2ray Task Manager",
+  "description": "A tool to generate automation prompts for Grok to fetch and email v2ray subscription links daily.",
+  "requestFramePermissions": []
+}
